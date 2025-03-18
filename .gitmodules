@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/kobecode24/UX-UI.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/kobecode24/eCampus.git
